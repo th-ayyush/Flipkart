@@ -1,6 +1,6 @@
 
 # Project Title
-Password strength checker app using basic HTML,CSS,Javascript.
+Flipkart Home page clone using basic HTML,CSS,Javascript.
 
 Wanna build Flipkart E-commerce website , I got yaa!!
  
